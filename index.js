@@ -10,6 +10,9 @@ app.use(cors())
 app.use(express.json());
 
 //Available Routes
+app.use('/', (req,res)=>{
+  res.json("server started")
+})
 app.use('/api/auth', require('./routes/auth'))
 app.use('/api/notes', require('./routes/notes'))
 
