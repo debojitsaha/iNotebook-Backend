@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "62fd03f924bb2881060a1f4c"
+  },
+  "name": "Debojit Saha",
+  "email": "debojit@gmail.com",
+  "password": "validpassword",
+  "date": {
+    "$date": {
+      "$numberLong": "1660748793737"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fd0553b104a3dc3ed55654"
+  },
+  "name": "Arpita",
+  "email": "arpita@gmail.com",
+  "password": "validpassword2",
+  "date": {
+    "$date": {
+      "$numberLong": "1660749139486"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fd05c8878cecfb65380cbb"
+  },
+  "name": "Debojit Saha",
+  "email": "debojit2@gmail.com",
+  "password": "validpassword",
+  "date": {
+    "$date": {
+      "$numberLong": "1660749256374"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fe6188c58b614f4319384b"
+  },
+  "name": "Steve Smith",
+  "email": "steve@gmail.com",
+  "password": "6465555",
+  "date": {
+    "$date": {
+      "$numberLong": "1660838280790"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fe8367d0d35c5b5a3297e3"
+  },
+  "name": "Bill Gates",
+  "email": "gateway@gmail.com",
+  "password": "$2a$10$VRKB4psp.haZY1rDOHSLM.Fcr2SkP0VRjsS9g8qi8IrdJX1nPEAdu",
+  "date": {
+    "$date": {
+      "$numberLong": "1660846951880"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fe8a0500224b088cd34337"
+  },
+  "name": "Steve Jobs",
+  "email": "sjobs@gmail.com",
+  "password": "$2a$10$KG1j43H9fNiYxLF8/p9bH.CA8Zx8DpilgcYjznObWmKA4ZVVaZJUa",
+  "date": {
+    "$date": {
+      "$numberLong": "1660848645172"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fe8a842ebf2b5a09fa4ed7"
+  },
+  "name": "Steve Jobs",
+  "email": "sjobs2@gmail.com",
+  "password": "$2a$10$qy/7d3jRfTKmdZXXPS/Q9uDdVZb4S3/8TjexsakAI22ca0OphrJgm",
+  "date": {
+    "$date": {
+      "$numberLong": "1660848772701"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630f12529189a5a6928028f5"
+  },
+  "name": "Mark Zuckerberg",
+  "email": "mark@gmail.com",
+  "password": "$2a$10$Gj0AeyBzdxLem7tbQfHkVeodDv40LDnUddtjSSlpLDbGrw9F2nJg6",
+  "date": {
+    "$date": {
+      "$numberLong": "1661932114903"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630f1996754562a9f50c8dc6"
+  },
+  "name": "Ryuga",
+  "email": "ryuga@beyblade.com",
+  "password": "$2a$10$POnr.5XzDzFT4RVvdkGOCOpLOoIkQFhN6MoY1LhJFS4MEiZI4AP.6",
+  "date": {
+    "$date": {
+      "$numberLong": "1661933974321"
+    }
+  },
+  "__v": 0
+}]

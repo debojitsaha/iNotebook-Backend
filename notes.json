@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "62ff89295d39debfbbe37e3a"
+  },
+  "user": {
+    "$oid": "62fe8a842ebf2b5a09fa4ed7"
+  },
+  "title": "CA3",
+  "description": "Unit Test Incoming: Starts from 14th September",
+  "tag": "reminder",
+  "date": {
+    "$date": {
+      "$numberLong": "1660913961064"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630e24b52624b2613c344edd"
+  },
+  "user": {
+    "$oid": "62fe8a842ebf2b5a09fa4ed7"
+  },
+  "title": "Learn React",
+  "description": "learning mern stack development",
+  "tag": "web",
+  "date": {
+    "$date": {
+      "$numberLong": "1661871285787"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630e522ffa7611b91ce80233"
+  },
+  "user": {
+    "$oid": "62fe8a842ebf2b5a09fa4ed7"
+  },
+  "title": "Learn Python",
+  "description": "learn python from youtube",
+  "tag": "personal",
+  "date": {
+    "$date": {
+      "$numberLong": "1661882927180"
+    }
+  },
+  "__v": 0
+}]
