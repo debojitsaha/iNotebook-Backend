@@ -9,7 +9,7 @@ const Login = (props) => {
     e.preventDefault();    
 
     const response = await fetch("https://inotebookmern.herokuapp.com/api/auth/login", {
-        method: 'POST',
+        method: 'GET',
         headers: {
           'Content-Type': 'application/json'  
         },body: JSON.stringify({email: credentials.email, password: credentials.password}) 
