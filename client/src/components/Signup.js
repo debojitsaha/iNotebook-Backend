@@ -30,7 +30,7 @@ const Signup = (props) => {
       }
     }
     else
-      props.showAlert("Invalid Credentials", "danger")
+      props.showAlert("User exists", "danger")
   };
 
   const onChange= (e)=>{
