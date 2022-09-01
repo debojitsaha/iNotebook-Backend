@@ -6,12 +6,7 @@ const Login = (props) => {
     let history= useHistory();
 
   const handleSubmit = async(e) => {
-    e.preventDefault();    
-
-    const onUnload= ()=>{
-      window.location.href= '/'
-    }
-    onUnload()
+    e.preventDefault();
 
     const response = await fetch("https://inotebookmern.herokuapp.com/api/auth/login", {
         method: 'POST',
