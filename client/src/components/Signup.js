@@ -11,7 +11,7 @@ const Signup = (props) => {
     if(credentials.password===credentials.cpassword){
 
     const response = await fetch("https://inotebookmern.herokuapp.com/api/auth/createuser", {
-        method: 'GET',
+        method: 'POST',
         headers: {
           'Content-Type': 'application/json'  
         },body: JSON.stringify({name: credentials.name, email: credentials.email, password: credentials.password}) 
