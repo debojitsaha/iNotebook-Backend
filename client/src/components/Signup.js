@@ -26,11 +26,11 @@ const Signup = (props) => {
         history.push('/')
       }
       else{
-        props.showAlert("Invalid Credentials", "danger")
+        props.showAlert("User already exists", "danger")
       }
     }
     else
-      props.showAlert("User exists", "danger")
+      props.showAlert("Invalid Credentials", "danger")
   };
 
   const onChange= (e)=>{
